@@ -9,6 +9,7 @@ export default function HomeScreen() {
     <div>
       <h1>Home</h1>
       <button onClick={handleClick}>Click To Check Navigate</button>
+      <button onClick={handleClick}>Click To Check Navigate</button>
     </div>
   );
 }
